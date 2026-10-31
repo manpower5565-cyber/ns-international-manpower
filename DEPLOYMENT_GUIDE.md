@@ -63,10 +63,10 @@ export const siteConfig = {
     full: "207, Office No. 2, 2nd Floor, Jewel Height, 23 BN Road, Lalbagh, Lucknow, Uttar Pradesh – 226001, India.",
   },
   contact: {
-    email: "contact@nsinternationalmanpower.online",
-    phoneDisplay: "+91 94150 12345",
-    phoneRaw: "+919415012345",
-    whatsappNumber: "919415012345", // Configure with active WhatsApp business phone
+    email: "nawabhasmi1901@gmail.com",
+    phoneDisplay: "+91 78605 79407",
+    phoneRaw: "+917860579407",
+    whatsappNumber: "917860579407", // Configure with active WhatsApp business phone
     businessHours: "Monday – Saturday: 9:30 AM – 6:30 PM (IST)",
     directionsUrl: "https://maps.google.com/?q=Jewel+Height+23+BN+Road+Lalbagh+Lucknow+226001",
     googleMapsEmbedUrl: "...",

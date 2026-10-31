@@ -49,11 +49,11 @@ export const siteConfig: SiteConfig = {
     full: "207, Office No. 2, 2nd Floor, Jewel Height, 23 BN Road, Lalbagh, Lucknow, Uttar Pradesh – 226001, India.",
   },
   contact: {
-    email: "contact@nsinternationalmanpower.online",
-    supportEmail: "recruitment@nsinternationalmanpower.online",
-    phoneDisplay: "+91 94150 12345", // Configurable
-    phoneRaw: "+919415012345",
-    whatsappNumber: "919415012345", // Configure with active WhatsApp business number
+    email: "nawabhasmi1901@gmail.com",
+    supportEmail: "nawabhasmi1901@gmail.com",
+    phoneDisplay: "+91 78605 79407", // Configurable
+    phoneRaw: "+917860579407",
+    whatsappNumber: "917860579407", // Configure with active WhatsApp business number
     businessHours: "Monday – Saturday: 9:30 AM – 6:30 PM (IST)",
     directionsUrl: "https://maps.google.com/?q=Jewel+Height+23+BN+Road+Lalbagh+Lucknow+226001",
     // Embed map centered on Lalbagh Lucknow / BN Road Jewel Height
@@ -243,7 +243,7 @@ export const faqsData: FaqItem[] = [
   },
   {
     question: "How can an employer submit a manpower requirement?",
-    answer: "Employers and overseas recruitment managers can submit their detailed manpower demands directly through our Employer Enquiry form on this website, or by emailing our corporate desk at contact@nsinternationalmanpower.online. Our team will review the required job roles, volume, destination location, and statutory prerequisites to discuss a tailored recruitment plan.",
+    answer: "Employers and overseas recruitment managers can submit their detailed manpower demands directly through our Employer Enquiry form on this website, or by emailing our corporate desk at nawabhasmi1901@gmail.com. Our team will review the required job roles, volume, destination location, and statutory prerequisites to discuss a tailored recruitment plan.",
   },
   {
     question: "How can candidates register their profiles?",
@@ -263,7 +263,7 @@ export const faqsData: FaqItem[] = [
   },
   {
     question: "How can I contact the recruitment team?",
-    answer: "You can visit our registered office at 207, Office No. 2, 2nd Floor, Jewel Height, 23 BN Road, Lalbagh, Lucknow, Uttar Pradesh – 226001, India. You may also connect via email at contact@nsinternationalmanpower.online, call our office desk, or initiate a conversation through our WhatsApp enquiry channel during business hours (Monday – Saturday, 9:30 AM – 6:30 PM IST).",
+    answer: "You can visit our registered office at 207, Office No. 2, 2nd Floor, Jewel Height, 23 BN Road, Lalbagh, Lucknow, Uttar Pradesh – 226001, India. You may also connect via email at nawabhasmi1901@gmail.com, call our office desk, or initiate a conversation through our WhatsApp enquiry channel during business hours (Monday – Saturday, 9:30 AM – 6:30 PM IST).",
   },
 ];
 
